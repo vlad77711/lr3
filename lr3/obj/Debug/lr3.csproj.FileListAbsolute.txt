@@ -1,0 +1,10 @@
+F:\lr c#\lr 3\lr3\bin\Debug\lr3.exe.config
+F:\lr c#\lr 3\lr3\bin\Debug\lr3.exe
+F:\lr c#\lr 3\lr3\bin\Debug\lr3.pdb
+F:\lr c#\lr 3\lr3\obj\Debug\lr3.csprojAssemblyReference.cache
+F:\lr c#\lr 3\lr3\obj\Debug\lr3.Properties.Resources.resources
+F:\lr c#\lr 3\lr3\obj\Debug\lr3.csproj.GenerateResource.cache
+F:\lr c#\lr 3\lr3\obj\Debug\lr3.csproj.CoreCompileInputs.cache
+F:\lr c#\lr 3\lr3\obj\Debug\lr3.exe
+F:\lr c#\lr 3\lr3\obj\Debug\lr3.pdb
+F:\lr c#\lr 3\lr3\obj\Debug\lr3.fMain.resources
